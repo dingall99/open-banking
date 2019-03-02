@@ -1,0 +1,10 @@
+uk\co\rbs\openbanking\servicedesk\testing\SSLPoke.class
+uk\co\rbs\openbanking\servicedesk\services\HttpsConnectionHelper.class
+uk\co\rbs\openbanking\servicedesk\testing\TestSSL$2.class
+uk\co\rbs\openbanking\servicedesk\services\RequestMethod.class
+uk\co\rbs\openbanking\servicedesk\services\MatlsConnectivityHelper$1.class
+uk\co\rbs\openbanking\servicedesk\pojo\Signing.class
+uk\co\rbs\openbanking\servicedesk\testing\TestSSL$1.class
+uk\co\rbs\openbanking\servicedesk\services\KeyServices.class
+uk\co\rbs\openbanking\servicedesk\testing\TestSSL.class
+uk\co\rbs\openbanking\servicedesk\services\MatlsConnectivityHelper.class
